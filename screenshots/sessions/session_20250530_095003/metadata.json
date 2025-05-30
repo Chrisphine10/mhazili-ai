@@ -1,0 +1,44 @@
+[
+  {
+    "filename": "fullscreen_095501_847.png",
+    "timestamp": "2025-05-30T09:55:01.847941",
+    "task_id": null,
+    "step_number": null,
+    "window_title": null,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "file_size": 227012,
+    "annotations": null,
+    "tags": []
+  },
+  {
+    "filename": "fullscreen_095501_931.png",
+    "timestamp": "2025-05-30T09:55:01.931106",
+    "task_id": null,
+    "step_number": null,
+    "window_title": null,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "file_size": 226979,
+    "annotations": null,
+    "tags": []
+  },
+  {
+    "filename": "fullscreen_095532_073.png",
+    "timestamp": "2025-05-30T09:55:32.073451",
+    "task_id": null,
+    "step_number": null,
+    "window_title": null,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "file_size": 190143,
+    "annotations": null,
+    "tags": []
+  }
+]

@@ -1,0 +1,15 @@
+README.md
+setup.py
+ai_automation_system.egg-info/PKG-INFO
+ai_automation_system.egg-info/SOURCES.txt
+ai_automation_system.egg-info/dependency_links.txt
+ai_automation_system.egg-info/requires.txt
+ai_automation_system.egg-info/top_level.txt
+tests/test_ai_engine.py
+tests/test_memory.py
+ui/__init__.py
+ui/components.py
+ui/streamlit_ui.py
+utils/__init__.py
+utils/helpers.py
+utils/logger.py

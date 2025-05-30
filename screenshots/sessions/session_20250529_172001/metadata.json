@@ -1,0 +1,730 @@
+[
+  {
+    "filename": "fullscreen_172013_315.png",
+    "timestamp": "2025-05-29T17:20:13.315359",
+    "task_id": null,
+    "step_number": null,
+    "window_title": null,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "file_size": 221933,
+    "annotations": null,
+    "tags": []
+  },
+  {
+    "filename": "fullscreen_172020_397.png",
+    "timestamp": "2025-05-29T17:20:20.397746",
+    "task_id": null,
+    "step_number": null,
+    "window_title": null,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "file_size": 221929,
+    "annotations": null,
+    "tags": []
+  },
+  {
+    "filename": "fullscreen_172020_606.png",
+    "timestamp": "2025-05-29T17:20:20.606876",
+    "task_id": null,
+    "step_number": null,
+    "window_title": null,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "file_size": 233979,
+    "annotations": null,
+    "tags": []
+  },
+  {
+    "filename": "fullscreen_172021_267.png",
+    "timestamp": "2025-05-29T17:20:21.267591",
+    "task_id": null,
+    "step_number": null,
+    "window_title": null,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "file_size": 228497,
+    "annotations": null,
+    "tags": []
+  },
+  {
+    "filename": "fullscreen_172021_547.png",
+    "timestamp": "2025-05-29T17:20:21.547904",
+    "task_id": null,
+    "step_number": null,
+    "window_title": null,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "file_size": 228096,
+    "annotations": null,
+    "tags": []
+  },
+  {
+    "filename": "fullscreen_172022_181.png",
+    "timestamp": "2025-05-29T17:20:22.181389",
+    "task_id": null,
+    "step_number": null,
+    "window_title": null,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "file_size": 228372,
+    "annotations": null,
+    "tags": []
+  },
+  {
+    "filename": "fullscreen_172022_380.png",
+    "timestamp": "2025-05-29T17:20:22.380833",
+    "task_id": null,
+    "step_number": null,
+    "window_title": null,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "file_size": 228518,
+    "annotations": null,
+    "tags": []
+  },
+  {
+    "filename": "fullscreen_172022_970.png",
+    "timestamp": "2025-05-29T17:20:22.970738",
+    "task_id": null,
+    "step_number": null,
+    "window_title": null,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "file_size": 228363,
+    "annotations": null,
+    "tags": []
+  },
+  {
+    "filename": "fullscreen_172023_147.png",
+    "timestamp": "2025-05-29T17:20:23.147201",
+    "task_id": null,
+    "step_number": null,
+    "window_title": null,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "file_size": 228762,
+    "annotations": null,
+    "tags": []
+  },
+  {
+    "filename": "fullscreen_172023_763.png",
+    "timestamp": "2025-05-29T17:20:23.763962",
+    "task_id": null,
+    "step_number": null,
+    "window_title": null,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "file_size": 228235,
+    "annotations": null,
+    "tags": []
+  },
+  {
+    "filename": "fullscreen_172024_068.png",
+    "timestamp": "2025-05-29T17:20:24.068343",
+    "task_id": null,
+    "step_number": null,
+    "window_title": null,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "file_size": 228076,
+    "annotations": null,
+    "tags": []
+  },
+  {
+    "filename": "fullscreen_172024_696.png",
+    "timestamp": "2025-05-29T17:20:24.696578",
+    "task_id": null,
+    "step_number": null,
+    "window_title": null,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "file_size": 228397,
+    "annotations": null,
+    "tags": []
+  },
+  {
+    "filename": "fullscreen_172025_323.png",
+    "timestamp": "2025-05-29T17:20:25.323003",
+    "task_id": null,
+    "step_number": null,
+    "window_title": null,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "file_size": 228080,
+    "annotations": null,
+    "tags": []
+  },
+  {
+    "filename": "fullscreen_172025_503.png",
+    "timestamp": "2025-05-29T17:20:25.503462",
+    "task_id": null,
+    "step_number": null,
+    "window_title": null,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "file_size": 228412,
+    "annotations": null,
+    "tags": []
+  },
+  {
+    "filename": "fullscreen_172026_084.png",
+    "timestamp": "2025-05-29T17:20:26.084484",
+    "task_id": null,
+    "step_number": null,
+    "window_title": null,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "file_size": 228451,
+    "annotations": null,
+    "tags": []
+  },
+  {
+    "filename": "fullscreen_172027_664.png",
+    "timestamp": "2025-05-29T17:20:27.664087",
+    "task_id": null,
+    "step_number": null,
+    "window_title": null,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "file_size": 228084,
+    "annotations": null,
+    "tags": []
+  },
+  {
+    "filename": "fullscreen_172037_080.png",
+    "timestamp": "2025-05-29T17:20:37.080106",
+    "task_id": null,
+    "step_number": null,
+    "window_title": null,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "file_size": 228216,
+    "annotations": null,
+    "tags": []
+  },
+  {
+    "filename": "fullscreen_172037_294.png",
+    "timestamp": "2025-05-29T17:20:37.294785",
+    "task_id": null,
+    "step_number": null,
+    "window_title": null,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "file_size": 228100,
+    "annotations": null,
+    "tags": []
+  },
+  {
+    "filename": "fullscreen_172037_898.png",
+    "timestamp": "2025-05-29T17:20:37.898226",
+    "task_id": null,
+    "step_number": null,
+    "window_title": null,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "file_size": 228368,
+    "annotations": null,
+    "tags": []
+  },
+  {
+    "filename": "fullscreen_172038_100.png",
+    "timestamp": "2025-05-29T17:20:38.100397",
+    "task_id": null,
+    "step_number": null,
+    "window_title": null,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "file_size": 228337,
+    "annotations": null,
+    "tags": []
+  },
+  {
+    "filename": "fullscreen_172038_739.png",
+    "timestamp": "2025-05-29T17:20:38.739721",
+    "task_id": null,
+    "step_number": null,
+    "window_title": null,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "file_size": 228425,
+    "annotations": null,
+    "tags": []
+  },
+  {
+    "filename": "fullscreen_172038_949.png",
+    "timestamp": "2025-05-29T17:20:38.949119",
+    "task_id": null,
+    "step_number": null,
+    "window_title": null,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "file_size": 228374,
+    "annotations": null,
+    "tags": []
+  },
+  {
+    "filename": "fullscreen_172039_579.png",
+    "timestamp": "2025-05-29T17:20:39.579230",
+    "task_id": null,
+    "step_number": null,
+    "window_title": null,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "file_size": 228089,
+    "annotations": null,
+    "tags": []
+  },
+  {
+    "filename": "fullscreen_172039_795.png",
+    "timestamp": "2025-05-29T17:20:39.795467",
+    "task_id": null,
+    "step_number": null,
+    "window_title": null,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "file_size": 228392,
+    "annotations": null,
+    "tags": []
+  },
+  {
+    "filename": "fullscreen_172040_402.png",
+    "timestamp": "2025-05-29T17:20:40.402720",
+    "task_id": null,
+    "step_number": null,
+    "window_title": null,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "file_size": 228479,
+    "annotations": null,
+    "tags": []
+  },
+  {
+    "filename": "fullscreen_172040_751.png",
+    "timestamp": "2025-05-29T17:20:40.751214",
+    "task_id": null,
+    "step_number": null,
+    "window_title": null,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "file_size": 228120,
+    "annotations": null,
+    "tags": []
+  },
+  {
+    "filename": "fullscreen_172041_365.png",
+    "timestamp": "2025-05-29T17:20:41.365985",
+    "task_id": null,
+    "step_number": null,
+    "window_title": null,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "file_size": 228263,
+    "annotations": null,
+    "tags": []
+  },
+  {
+    "filename": "fullscreen_172042_012.png",
+    "timestamp": "2025-05-29T17:20:42.012485",
+    "task_id": null,
+    "step_number": null,
+    "window_title": null,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "file_size": 228076,
+    "annotations": null,
+    "tags": []
+  },
+  {
+    "filename": "fullscreen_172042_215.png",
+    "timestamp": "2025-05-29T17:20:42.215099",
+    "task_id": null,
+    "step_number": null,
+    "window_title": null,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "file_size": 228392,
+    "annotations": null,
+    "tags": []
+  },
+  {
+    "filename": "fullscreen_172042_820.png",
+    "timestamp": "2025-05-29T17:20:42.820860",
+    "task_id": null,
+    "step_number": null,
+    "window_title": null,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "file_size": 228485,
+    "annotations": null,
+    "tags": []
+  },
+  {
+    "filename": "fullscreen_172112_111.png",
+    "timestamp": "2025-05-29T17:21:12.111248",
+    "task_id": null,
+    "step_number": null,
+    "window_title": null,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "file_size": 230453,
+    "annotations": null,
+    "tags": []
+  },
+  {
+    "filename": "fullscreen_172129_192.png",
+    "timestamp": "2025-05-29T17:21:29.192133",
+    "task_id": null,
+    "step_number": null,
+    "window_title": null,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "file_size": 230368,
+    "annotations": null,
+    "tags": []
+  },
+  {
+    "filename": "fullscreen_172131_320.png",
+    "timestamp": "2025-05-29T17:21:31.320757",
+    "task_id": null,
+    "step_number": null,
+    "window_title": null,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "file_size": 697406,
+    "annotations": null,
+    "tags": []
+  },
+  {
+    "filename": "fullscreen_172132_584.png",
+    "timestamp": "2025-05-29T17:21:32.584487",
+    "task_id": null,
+    "step_number": null,
+    "window_title": null,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "file_size": 166766,
+    "annotations": null,
+    "tags": []
+  },
+  {
+    "filename": "fullscreen_172133_205.png",
+    "timestamp": "2025-05-29T17:21:33.205582",
+    "task_id": null,
+    "step_number": null,
+    "window_title": null,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "file_size": 300287,
+    "annotations": null,
+    "tags": []
+  },
+  {
+    "filename": "fullscreen_172133_557.png",
+    "timestamp": "2025-05-29T17:21:33.557494",
+    "task_id": null,
+    "step_number": null,
+    "window_title": null,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "file_size": 264445,
+    "annotations": null,
+    "tags": []
+  },
+  {
+    "filename": "fullscreen_172134_181.png",
+    "timestamp": "2025-05-29T17:21:34.181877",
+    "task_id": null,
+    "step_number": null,
+    "window_title": null,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "file_size": 264445,
+    "annotations": null,
+    "tags": []
+  },
+  {
+    "filename": "fullscreen_172134_780.png",
+    "timestamp": "2025-05-29T17:21:34.780602",
+    "task_id": null,
+    "step_number": null,
+    "window_title": null,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "file_size": 264445,
+    "annotations": null,
+    "tags": []
+  },
+  {
+    "filename": "fullscreen_172134_979.png",
+    "timestamp": "2025-05-29T17:21:34.979961",
+    "task_id": null,
+    "step_number": null,
+    "window_title": null,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "file_size": 264445,
+    "annotations": null,
+    "tags": []
+  },
+  {
+    "filename": "fullscreen_172135_591.png",
+    "timestamp": "2025-05-29T17:21:35.591103",
+    "task_id": null,
+    "step_number": null,
+    "window_title": null,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "file_size": 265887,
+    "annotations": null,
+    "tags": []
+  },
+  {
+    "filename": "fullscreen_172135_805.png",
+    "timestamp": "2025-05-29T17:21:35.805188",
+    "task_id": null,
+    "step_number": null,
+    "window_title": null,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "file_size": 265887,
+    "annotations": null,
+    "tags": []
+  },
+  {
+    "filename": "fullscreen_172136_449.png",
+    "timestamp": "2025-05-29T17:21:36.449995",
+    "task_id": null,
+    "step_number": null,
+    "window_title": null,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "file_size": 266377,
+    "annotations": null,
+    "tags": []
+  },
+  {
+    "filename": "fullscreen_172136_640.png",
+    "timestamp": "2025-05-29T17:21:36.640279",
+    "task_id": null,
+    "step_number": null,
+    "window_title": null,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "file_size": 266377,
+    "annotations": null,
+    "tags": []
+  },
+  {
+    "filename": "fullscreen_172137_257.png",
+    "timestamp": "2025-05-29T17:21:37.257101",
+    "task_id": null,
+    "step_number": null,
+    "window_title": null,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "file_size": 272484,
+    "annotations": null,
+    "tags": []
+  },
+  {
+    "filename": "fullscreen_172137_455.png",
+    "timestamp": "2025-05-29T17:21:37.455478",
+    "task_id": null,
+    "step_number": null,
+    "window_title": null,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "file_size": 272484,
+    "annotations": null,
+    "tags": []
+  },
+  {
+    "filename": "fullscreen_172138_048.png",
+    "timestamp": "2025-05-29T17:21:38.048302",
+    "task_id": null,
+    "step_number": null,
+    "window_title": null,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "file_size": 272484,
+    "annotations": null,
+    "tags": []
+  },
+  {
+    "filename": "fullscreen_172138_247.png",
+    "timestamp": "2025-05-29T17:21:38.247400",
+    "task_id": null,
+    "step_number": null,
+    "window_title": null,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "file_size": 272484,
+    "annotations": null,
+    "tags": []
+  },
+  {
+    "filename": "fullscreen_172138_850.png",
+    "timestamp": "2025-05-29T17:21:38.850000",
+    "task_id": null,
+    "step_number": null,
+    "window_title": null,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "file_size": 272484,
+    "annotations": null,
+    "tags": []
+  },
+  {
+    "filename": "fullscreen_172139_063.png",
+    "timestamp": "2025-05-29T17:21:39.063124",
+    "task_id": null,
+    "step_number": null,
+    "window_title": null,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "file_size": 272484,
+    "annotations": null,
+    "tags": []
+  },
+  {
+    "filename": "fullscreen_172139_725.png",
+    "timestamp": "2025-05-29T17:21:39.725268",
+    "task_id": null,
+    "step_number": null,
+    "window_title": null,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "file_size": 272484,
+    "annotations": null,
+    "tags": []
+  },
+  {
+    "filename": "fullscreen_172139_939.png",
+    "timestamp": "2025-05-29T17:21:39.939623",
+    "task_id": null,
+    "step_number": null,
+    "window_title": null,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "file_size": 274533,
+    "annotations": null,
+    "tags": []
+  },
+  {
+    "filename": "fullscreen_172140_535.png",
+    "timestamp": "2025-05-29T17:21:40.535160",
+    "task_id": null,
+    "step_number": null,
+    "window_title": null,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "file_size": 270435,
+    "annotations": null,
+    "tags": []
+  }
+]

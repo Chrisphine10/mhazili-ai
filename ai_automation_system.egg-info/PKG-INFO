@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: ai_automation_system
+Version: 0.1
+Requires-Dist: streamlit
+Requires-Dist: plotly
+Requires-Dist: pandas
+Requires-Dist: PyYAML
+Requires-Dist: openai
+Requires-Dist: pyautogui
+Requires-Dist: pynput
+Requires-Dist: psutil
+Requires-Dist: pywin32
+Dynamic: requires-dist

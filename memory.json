@@ -1,0 +1,2320 @@
+{
+  "baaede5cfc09e47a00daa40f55bb7d57": {
+    "id": "baaede5cfc09e47a00daa40f55bb7d57",
+    "memory_type": "task_execution",
+    "timestamp": 1748528147.9061308,
+    "data": {
+      "task_id": "6b6105152b06ffed92b8a1c027dcf943",
+      "user_input": "Create a new text file on Desktop",
+      "intent_analysis": {},
+      "execution_steps": [
+        {
+          "action": "execute",
+          "params": {
+            "text": "Create a new text file on Desktop"
+          },
+          "result": {
+            "success": true,
+            "message": "Executed 7 of 7 steps",
+            "total_steps": 7,
+            "steps_executed": 7,
+            "execution_log": [
+              {
+                "step_number": 1,
+                "description": "Show Desktop",
+                "success": true,
+                "timestamp": 1748528138.3562572
+              },
+              {
+                "step_number": 2,
+                "description": "Right-click on Desktop",
+                "success": true,
+                "timestamp": 1748528139.239792
+              },
+              {
+                "step_number": 3,
+                "description": "Navigate to 'New'",
+                "success": true,
+                "timestamp": 1748528140.0228713
+              },
+              {
+                "step_number": 4,
+                "description": "Open 'New' submenu",
+                "success": true,
+                "timestamp": 1748528140.851317
+              },
+              {
+                "step_number": 5,
+                "description": "Select 'Text Document'",
+                "success": true,
+                "timestamp": 1748528141.625384
+              },
+              {
+                "step_number": 6,
+                "description": "Type file name",
+                "success": true,
+                "timestamp": 1748528143.2275515
+              },
+              {
+                "step_number": 7,
+                "description": "Confirm file name",
+                "success": true,
+                "timestamp": 1748528144.0483758
+              }
+            ],
+            "task_description": "Create a new text file on Desktop",
+            "verification_result": true,
+            "screenshots": [
+              "screenshots\\sessions\\session_20250529_171410\\fullscreen_171521_287.png",
+              "screenshots\\sessions\\session_20250529_171410\\fullscreen_171544_601.png"
+            ]
+          }
+        }
+      ],
+      "status": "completed",
+      "start_time": 1748528147.9061308,
+      "end_time": 1748528147.9061308,
+      "success_rate": 1.0,
+      "error_messages": [],
+      "screenshots": [],
+      "user_feedback": null,
+      "corrections_applied": []
+    },
+    "tags": [
+      "completed",
+      "task_execution"
+    ],
+    "importance": 0.8,
+    "access_count": 0,
+    "last_accessed": 1748528147.9061308,
+    "expiry_date": 1751120147.9061308
+  },
+  "f5d8809be55c0ecceb780b8765244071": {
+    "id": "f5d8809be55c0ecceb780b8765244071",
+    "memory_type": "task_execution",
+    "timestamp": 1748528203.605826,
+    "data": {
+      "task_id": "3d0bbbdf8d14ac37b020886b338be677",
+      "user_input": "Find and open the latest downloaded file",
+      "intent_analysis": {},
+      "execution_steps": [
+        {
+          "action": "execute",
+          "params": {
+            "text": "Find and open the latest downloaded file"
+          },
+          "result": {
+            "success": true,
+            "message": "Executed 5 of 5 steps",
+            "total_steps": 5,
+            "steps_executed": 5,
+            "execution_log": [
+              {
+                "step_number": 1,
+                "description": "Open Run dialog",
+                "success": true,
+                "timestamp": 1748528194.3859782
+              },
+              {
+                "step_number": 2,
+                "description": "Type Downloads path",
+                "success": true,
+                "timestamp": 1748528195.9771314
+              },
+              {
+                "step_number": 3,
+                "description": "Open Downloads folder",
+                "success": true,
+                "timestamp": 1748528196.7885423
+              },
+              {
+                "step_number": 4,
+                "description": "Select latest file",
+                "success": true,
+                "timestamp": 1748528197.6369731
+              },
+              {
+                "step_number": 5,
+                "description": "Open selected file",
+                "success": true,
+                "timestamp": 1748528198.492686
+              }
+            ],
+            "task_description": "Find and open the latest downloaded file",
+            "verification_result": true,
+            "screenshots": [
+              "screenshots\\sessions\\session_20250529_171410\\fullscreen_171625_241.png",
+              "screenshots\\sessions\\session_20250529_171410\\fullscreen_171639_040.png"
+            ]
+          }
+        }
+      ],
+      "status": "completed",
+      "start_time": 1748528203.605826,
+      "end_time": 1748528203.605826,
+      "success_rate": 1.0,
+      "error_messages": [],
+      "screenshots": [],
+      "user_feedback": null,
+      "corrections_applied": []
+    },
+    "tags": [
+      "completed",
+      "task_execution",
+      "open",
+      "download"
+    ],
+    "importance": 0.8,
+    "access_count": 0,
+    "last_accessed": 1748528203.605826,
+    "expiry_date": 1751120203.605826
+  },
+  "8bdf2dfbc061d2185e43716b2a1279e6": {
+    "id": "8bdf2dfbc061d2185e43716b2a1279e6",
+    "memory_type": "task_execution",
+    "timestamp": 1748528450.533026,
+    "data": {
+      "task_id": "812c93fc008d778c94966c7e6d28dd9e",
+      "user_input": "Create a new text file on Desktop",
+      "intent_analysis": {},
+      "execution_steps": [
+        {
+          "action": "execute",
+          "params": {
+            "text": "Create a new text file on Desktop"
+          },
+          "result": {
+            "success": true,
+            "message": "Executed 6 of 6 steps",
+            "total_steps": 6,
+            "steps_executed": 6,
+            "execution_log": [
+              {
+                "step_number": 1,
+                "description": "Show Desktop",
+                "success": true,
+                "timestamp": 1748528437.3477366
+              },
+              {
+                "step_number": 2,
+                "description": "Open context menu",
+                "success": true,
+                "timestamp": 1748528438.1462474
+              },
+              {
+                "step_number": 3,
+                "description": "Select 'New'",
+                "success": true,
+                "timestamp": 1748528439.012774
+              },
+              {
+                "step_number": 4,
+                "description": "Select 'Text Document'",
+                "success": true,
+                "timestamp": 1748528439.8579807
+              },
+              {
+                "step_number": 5,
+                "description": "Type file name",
+                "success": true,
+                "timestamp": 1748528441.4292433
+              },
+              {
+                "step_number": 6,
+                "description": "Confirm file name",
+                "success": true,
+                "timestamp": 1748528442.2625194
+              }
+            ],
+            "task_description": "Create a new text file on Desktop",
+            "verification_result": true,
+            "screenshots": [
+              "screenshots\\sessions\\session_20250529_172001\\fullscreen_172027_664.png",
+              "screenshots\\sessions\\session_20250529_172001\\fullscreen_172042_820.png"
+            ]
+          }
+        }
+      ],
+      "status": "completed",
+      "start_time": 1748528450.533026,
+      "end_time": 1748528450.533026,
+      "success_rate": 1.0,
+      "error_messages": [],
+      "screenshots": [],
+      "user_feedback": null,
+      "corrections_applied": []
+    },
+    "tags": [
+      "completed",
+      "task_execution"
+    ],
+    "importance": 0.8,
+    "access_count": 0,
+    "last_accessed": 1748528450.533026,
+    "expiry_date": 1751120450.533026
+  },
+  "3ac937d3b4f697e146934c50c42cd6b9": {
+    "id": "3ac937d3b4f697e146934c50c42cd6b9",
+    "memory_type": "task_execution",
+    "timestamp": 1748528503.7028828,
+    "data": {
+      "task_id": "5ff6dad0e6d52348f60f93743f69292b",
+      "user_input": "Find and open the latest downloaded file",
+      "intent_analysis": {},
+      "execution_steps": [
+        {
+          "action": "execute",
+          "params": {
+            "text": "Find and open the latest downloaded file"
+          },
+          "result": {
+            "success": true,
+            "message": "Executed 9 of 9 steps",
+            "total_steps": 9,
+            "steps_executed": 9,
+            "execution_log": [
+              {
+                "step_number": 1,
+                "description": "Open File Explorer",
+                "success": true,
+                "timestamp": 1748528492.6361916
+              },
+              {
+                "step_number": 2,
+                "description": "Navigate to Downloads folder",
+                "success": true,
+                "timestamp": 1748528494.241109
+              },
+              {
+                "step_number": 3,
+                "description": "Confirm navigation",
+                "success": true,
+                "timestamp": 1748528495.0402665
+              },
+              {
+                "step_number": 4,
+                "description": "Open View menu",
+                "success": true,
+                "timestamp": 1748528495.9127398
+              },
+              {
+                "step_number": 5,
+                "description": "Select Sort by",
+                "success": true,
+                "timestamp": 1748528496.7001526
+              },
+              {
+                "step_number": 6,
+                "description": "Sort by Date modified (first press)",
+                "success": true,
+                "timestamp": 1748528497.5099647
+              },
+              {
+                "step_number": 7,
+                "description": "Sort by Date modified (second press for descending)",
+                "success": true,
+                "timestamp": 1748528498.3120801
+              },
+              {
+                "step_number": 8,
+                "description": "Select the latest file",
+                "success": true,
+                "timestamp": 1748528499.1364362
+              },
+              {
+                "step_number": 9,
+                "description": "Open the file",
+                "success": true,
+                "timestamp": 1748528500.0049512
+              }
+            ],
+            "task_description": "Find and open the latest downloaded file",
+            "verification_result": true,
+            "screenshots": [
+              "screenshots\\sessions\\session_20250529_172001\\fullscreen_172112_111.png",
+              "screenshots\\sessions\\session_20250529_172001\\fullscreen_172140_535.png"
+            ]
+          }
+        }
+      ],
+      "status": "completed",
+      "start_time": 1748528503.7028828,
+      "end_time": 1748528503.7028828,
+      "success_rate": 1.0,
+      "error_messages": [],
+      "screenshots": [],
+      "user_feedback": null,
+      "corrections_applied": []
+    },
+    "tags": [
+      "completed",
+      "task_execution",
+      "open",
+      "download"
+    ],
+    "importance": 0.8,
+    "access_count": 0,
+    "last_accessed": 1748528503.7028828,
+    "expiry_date": 1751120503.7028828
+  },
+  "215be7d70cb08b6db3f6995f1b362618": {
+    "id": "215be7d70cb08b6db3f6995f1b362618",
+    "memory_type": "task_execution",
+    "timestamp": 1748529173.7186694,
+    "data": {
+      "task_id": "e44ca80e65764eaff880feda2e22def3",
+      "user_input": "Open Calculator and compute 15 * 23",
+      "intent_analysis": {},
+      "execution_steps": [
+        {
+          "action": "execute",
+          "params": {
+            "text": "Open Calculator and compute 15 * 23"
+          },
+          "result": {
+            "success": true,
+            "message": "Executed 5/5 steps",
+            "steps_executed": 5,
+            "total_steps": 5,
+            "execution_log": [
+              {
+                "step_number": 1,
+                "description": "Open the Calculator application.",
+                "success": true
+              },
+              {
+                "step_number": 2,
+                "description": "Type the first number, 15.",
+                "success": true
+              },
+              {
+                "step_number": 3,
+                "description": "Type the multiplication operator.",
+                "success": true
+              },
+              {
+                "step_number": 4,
+                "description": "Type the second number, 23.",
+                "success": true
+              },
+              {
+                "step_number": 5,
+                "description": "Press Enter to compute the result.",
+                "success": true
+              }
+            ],
+            "failed_steps": [],
+            "screenshots": [
+              "screenshots\\sessions\\session_20250529_173149\\fullscreen_173211_130.png",
+              "screenshots\\sessions\\session_20250529_173149\\fullscreen_173251_964.png"
+            ]
+          }
+        }
+      ],
+      "status": "completed",
+      "start_time": 1748529173.7186694,
+      "end_time": 1748529173.7186694,
+      "success_rate": 1.0,
+      "error_messages": [],
+      "screenshots": [],
+      "user_feedback": null,
+      "corrections_applied": []
+    },
+    "tags": [
+      "completed",
+      "task_execution",
+      "open"
+    ],
+    "importance": 0.8,
+    "access_count": 0,
+    "last_accessed": 1748529173.7186694,
+    "expiry_date": 1751121173.7186694
+  },
+  "92bc98ea7cc850b7eb66767c62d65a7e": {
+    "id": "92bc98ea7cc850b7eb66767c62d65a7e",
+    "memory_type": "task_execution",
+    "timestamp": 1748529231.7433493,
+    "data": {
+      "task_id": "6020135c20e44bf760096e14b04bab7f",
+      "user_input": "Find and open the latest downloaded file",
+      "intent_analysis": {},
+      "execution_steps": [
+        {
+          "action": "execute",
+          "params": {
+            "text": "Find and open the latest downloaded file"
+          },
+          "result": {
+            "success": true,
+            "message": "Executed 4/4 steps",
+            "steps_executed": 4,
+            "total_steps": 4,
+            "execution_log": [
+              {
+                "step_number": 1,
+                "description": "Open the web browser where the file was downloaded (e.g., Google Chrome).",
+                "success": true
+              },
+              {
+                "step_number": 2,
+                "description": "Open the downloads page or tab within the browser using the keyboard shortcut.",
+                "success": true
+              },
+              {
+                "step_number": 3,
+                "description": "Wait for the downloads page to fully load and display the list of files.",
+                "success": true
+              },
+              {
+                "step_number": 4,
+                "description": "Click on the entry for the latest downloaded file, which is typically the first item listed at the top of the downloads page.",
+                "success": true
+              }
+            ],
+            "failed_steps": [],
+            "screenshots": [
+              "screenshots\\sessions\\session_20250529_173149\\fullscreen_173322_320.png",
+              "screenshots\\sessions\\session_20250529_173149\\fullscreen_173350_868.png"
+            ]
+          }
+        }
+      ],
+      "status": "completed",
+      "start_time": 1748529231.7433493,
+      "end_time": 1748529231.7433493,
+      "success_rate": 1.0,
+      "error_messages": [],
+      "screenshots": [],
+      "user_feedback": null,
+      "corrections_applied": []
+    },
+    "tags": [
+      "completed",
+      "task_execution",
+      "open",
+      "download"
+    ],
+    "importance": 0.8,
+    "access_count": 0,
+    "last_accessed": 1748529231.7433493,
+    "expiry_date": 1751121231.7433493
+  },
+  "3c26b8822df6bdef6ad738eab3357ae5": {
+    "id": "3c26b8822df6bdef6ad738eab3357ae5",
+    "memory_type": "task_execution",
+    "timestamp": 1748529308.0333893,
+    "data": {
+      "task_id": "5cb501bb05ecbcb99b86bdb820360d25",
+      "user_input": "Create a new text file on Desktop",
+      "intent_analysis": {},
+      "execution_steps": [
+        {
+          "action": "execute",
+          "params": {
+            "text": "Create a new text file on Desktop"
+          },
+          "result": {
+            "success": true,
+            "message": "Executed 5/5 steps",
+            "steps_executed": 5,
+            "total_steps": 5,
+            "execution_log": [
+              {
+                "step_number": 1,
+                "description": "Right-click on an empty space on the Desktop to open the context menu.",
+                "success": true
+              },
+              {
+                "step_number": 2,
+                "description": "Click 'New' from the context menu.",
+                "success": true
+              },
+              {
+                "step_number": 3,
+                "description": "Click 'Text Document' from the 'New' sub-menu.",
+                "success": true
+              },
+              {
+                "step_number": 4,
+                "description": "Type the desired name for your new text file.",
+                "success": true
+              },
+              {
+                "step_number": 5,
+                "description": "Press Enter to finalize the file creation with the typed name.",
+                "success": true
+              }
+            ],
+            "failed_steps": [],
+            "screenshots": [
+              "screenshots\\sessions\\session_20250529_173149\\fullscreen_173411_890.png",
+              "screenshots\\sessions\\session_20250529_173149\\fullscreen_173506_932.png"
+            ]
+          }
+        }
+      ],
+      "status": "completed",
+      "start_time": 1748529308.0333893,
+      "end_time": 1748529308.0333893,
+      "success_rate": 1.0,
+      "error_messages": [],
+      "screenshots": [],
+      "user_feedback": null,
+      "corrections_applied": []
+    },
+    "tags": [
+      "completed",
+      "task_execution"
+    ],
+    "importance": 0.8,
+    "access_count": 0,
+    "last_accessed": 1748529308.0333893,
+    "expiry_date": 1751121308.0333893
+  },
+  "b08baea59c1e9637cabc8397b2d6df64": {
+    "id": "b08baea59c1e9637cabc8397b2d6df64",
+    "memory_type": "task_execution",
+    "timestamp": 1748531977.6480892,
+    "data": {
+      "task_id": "c4ab8bafe38ae1f6a076b44b2a8939b7",
+      "user_input": "Open Calculator and compute 15 * 23",
+      "intent_analysis": {},
+      "execution_steps": [
+        {
+          "action": "execute",
+          "params": {
+            "text": "Open Calculator and compute 15 * 23"
+          },
+          "result": {
+            "success": false,
+            "message": "Error: 'TaskMemoryAgent' object has no attribute 'check_memory'"
+          }
+        }
+      ],
+      "status": "failed",
+      "start_time": 1748531977.6480892,
+      "end_time": 1748531977.6480892,
+      "success_rate": 0.0,
+      "error_messages": [
+        "Error: 'TaskMemoryAgent' object has no attribute 'check_memory'"
+      ],
+      "screenshots": [],
+      "user_feedback": null,
+      "corrections_applied": []
+    },
+    "tags": [
+      "failed",
+      "task_execution",
+      "open"
+    ],
+    "importance": 0.5,
+    "access_count": 0,
+    "last_accessed": 1748531977.6480892,
+    "expiry_date": 1751123977.6480892
+  },
+  "2deedd0daa5101a3c390331359518b1a": {
+    "id": "2deedd0daa5101a3c390331359518b1a",
+    "memory_type": "task_execution",
+    "timestamp": 1748532047.3142977,
+    "data": {
+      "task_id": "0c02aea4f6ffeb8202f46ffa8d305d43",
+      "user_input": "Open Calculator and compute 15 * 23",
+      "intent_analysis": {},
+      "execution_steps": [
+        {
+          "action": "execute",
+          "params": {
+            "text": "Open Calculator and compute 15 * 23"
+          },
+          "result": {
+            "success": false,
+            "message": "Error: 'TaskMemoryAgent' object has no attribute 'check_memory'"
+          }
+        }
+      ],
+      "status": "failed",
+      "start_time": 1748532047.3142977,
+      "end_time": 1748532047.3142977,
+      "success_rate": 0.0,
+      "error_messages": [
+        "Error: 'TaskMemoryAgent' object has no attribute 'check_memory'"
+      ],
+      "screenshots": [],
+      "user_feedback": null,
+      "corrections_applied": []
+    },
+    "tags": [
+      "failed",
+      "task_execution",
+      "open"
+    ],
+    "importance": 0.5,
+    "access_count": 0,
+    "last_accessed": 1748532047.3142977,
+    "expiry_date": 1751124047.3142977
+  },
+  "9c05e39c54e60769ec4b887a34fa020d": {
+    "id": "9c05e39c54e60769ec4b887a34fa020d",
+    "memory_type": "task_execution",
+    "timestamp": 1748532067.359414,
+    "data": {
+      "task_id": "a34e3d87ed8042807b1a9c13ad62c57e",
+      "user_input": "Open Chrome and search for 'AI news'",
+      "intent_analysis": {},
+      "execution_steps": [
+        {
+          "action": "execute",
+          "params": {
+            "text": "Open Chrome and search for 'AI news'"
+          },
+          "result": {
+            "success": false,
+            "message": "Error: 'TaskMemoryAgent' object has no attribute 'check_memory'"
+          }
+        }
+      ],
+      "status": "failed",
+      "start_time": 1748532067.359414,
+      "end_time": 1748532067.359414,
+      "success_rate": 0.0,
+      "error_messages": [
+        "Error: 'TaskMemoryAgent' object has no attribute 'check_memory'"
+      ],
+      "screenshots": [],
+      "user_feedback": null,
+      "corrections_applied": []
+    },
+    "tags": [
+      "failed",
+      "task_execution",
+      "chrome",
+      "open",
+      "search"
+    ],
+    "importance": 0.5,
+    "access_count": 0,
+    "last_accessed": 1748532067.359414,
+    "expiry_date": 1751124067.359414
+  },
+  "d581e9ff08919dd534fc6dd028be435e": {
+    "id": "d581e9ff08919dd534fc6dd028be435e",
+    "memory_type": "task_execution",
+    "timestamp": 1748532095.8957033,
+    "data": {
+      "task_id": "3a1ee40217a28e95aae81c33068bcf1a",
+      "user_input": "Open Calculator and compute 15 * 23",
+      "intent_analysis": {},
+      "execution_steps": [
+        {
+          "action": "execute",
+          "params": {
+            "text": "Open Calculator and compute 15 * 23"
+          },
+          "result": {
+            "success": false,
+            "message": "Error: 'TaskPlannerAgent' object has no attribute 'plan_task'"
+          }
+        }
+      ],
+      "status": "failed",
+      "start_time": 1748532095.8957033,
+      "end_time": 1748532095.8957033,
+      "success_rate": 0.0,
+      "error_messages": [
+        "Error: 'TaskPlannerAgent' object has no attribute 'plan_task'"
+      ],
+      "screenshots": [],
+      "user_feedback": null,
+      "corrections_applied": []
+    },
+    "tags": [
+      "failed",
+      "task_execution",
+      "open"
+    ],
+    "importance": 0.5,
+    "access_count": 0,
+    "last_accessed": 1748532095.8957033,
+    "expiry_date": 1751124095.8957033
+  },
+  "9015edbb9232c090620bb25d9870721f": {
+    "id": "9015edbb9232c090620bb25d9870721f",
+    "memory_type": "task_execution",
+    "timestamp": 1748532163.117267,
+    "data": {
+      "task_id": "009d093f3938d239e39ea15db56ae722",
+      "user_input": "Open Calculator and compute 15 * 23",
+      "intent_analysis": {},
+      "execution_steps": [
+        {
+          "action": "execute",
+          "params": {
+            "text": "Open Calculator and compute 15 * 23"
+          },
+          "result": {
+            "success": false,
+            "message": "Error: 'TaskPlannerAgent' object has no attribute 'plan_task'"
+          }
+        }
+      ],
+      "status": "failed",
+      "start_time": 1748532163.117267,
+      "end_time": 1748532163.117267,
+      "success_rate": 0.0,
+      "error_messages": [
+        "Error: 'TaskPlannerAgent' object has no attribute 'plan_task'"
+      ],
+      "screenshots": [],
+      "user_feedback": null,
+      "corrections_applied": []
+    },
+    "tags": [
+      "failed",
+      "task_execution",
+      "open"
+    ],
+    "importance": 0.5,
+    "access_count": 0,
+    "last_accessed": 1748532163.117267,
+    "expiry_date": 1751124163.117267
+  },
+  "5c4ca6d5b93a5c7fcb1120af5f8e1f4b": {
+    "id": "5c4ca6d5b93a5c7fcb1120af5f8e1f4b",
+    "memory_type": "task_execution",
+    "timestamp": 1748532394.9151251,
+    "data": {
+      "task_id": "5d9201a22b70c0a9fdac3b8e193012e2",
+      "user_input": "Open Calculator and compute 15 * 23",
+      "intent_analysis": {},
+      "execution_steps": [
+        {
+          "action": "execute",
+          "params": {
+            "text": "Open Calculator and compute 15 * 23"
+          },
+          "result": {
+            "success": false,
+            "message": "Failed to generate steps"
+          }
+        }
+      ],
+      "status": "failed",
+      "start_time": 1748532394.9151251,
+      "end_time": 1748532394.9151251,
+      "success_rate": 0.0,
+      "error_messages": [
+        "Failed to generate steps"
+      ],
+      "screenshots": [],
+      "user_feedback": null,
+      "corrections_applied": []
+    },
+    "tags": [
+      "failed",
+      "task_execution",
+      "open"
+    ],
+    "importance": 0.5,
+    "access_count": 0,
+    "last_accessed": 1748532394.9151251,
+    "expiry_date": 1751124394.9151251
+  },
+  "929e1a0c6b2ccf9107f98fffe339b9ba": {
+    "id": "929e1a0c6b2ccf9107f98fffe339b9ba",
+    "memory_type": "task_execution",
+    "timestamp": 1748532488.3539813,
+    "data": {
+      "task_id": "5c09fda34912a3374fe22b58b8cc909d",
+      "user_input": "Open Calculator and compute 15 * 23",
+      "intent_analysis": {},
+      "execution_steps": [
+        {
+          "action": "execute",
+          "params": {
+            "text": "Open Calculator and compute 15 * 23"
+          },
+          "result": {
+            "success": false,
+            "message": "Failed to generate steps"
+          }
+        }
+      ],
+      "status": "failed",
+      "start_time": 1748532488.3539813,
+      "end_time": 1748532488.3539813,
+      "success_rate": 0.0,
+      "error_messages": [
+        "Failed to generate steps"
+      ],
+      "screenshots": [],
+      "user_feedback": null,
+      "corrections_applied": []
+    },
+    "tags": [
+      "failed",
+      "task_execution",
+      "open"
+    ],
+    "importance": 0.5,
+    "access_count": 0,
+    "last_accessed": 1748532488.3539813,
+    "expiry_date": 1751124488.3539813
+  },
+  "43646e52da9f90bd4b276a4c84dfa3cb": {
+    "id": "43646e52da9f90bd4b276a4c84dfa3cb",
+    "memory_type": "task_execution",
+    "timestamp": 1748532940.264932,
+    "data": {
+      "task_id": "df3c10440d411b4691eb7498de034e3d",
+      "user_input": "Open Calculator and compute 15 * 23",
+      "intent_analysis": {},
+      "execution_steps": [
+        {
+          "action": "execute",
+          "params": {
+            "text": "Open Calculator and compute 15 * 23"
+          },
+          "result": {
+            "success": false,
+            "message": "Failed to generate steps"
+          }
+        }
+      ],
+      "status": "failed",
+      "start_time": 1748532940.264932,
+      "end_time": 1748532940.264932,
+      "success_rate": 0.0,
+      "error_messages": [
+        "Failed to generate steps"
+      ],
+      "screenshots": [],
+      "user_feedback": null,
+      "corrections_applied": []
+    },
+    "tags": [
+      "failed",
+      "task_execution",
+      "open"
+    ],
+    "importance": 0.5,
+    "access_count": 0,
+    "last_accessed": 1748532940.264932,
+    "expiry_date": 1751124940.264932
+  },
+  "b4f96238857296fad1561b6a8c1d4590": {
+    "id": "b4f96238857296fad1561b6a8c1d4590",
+    "memory_type": "task_execution",
+    "timestamp": 1748533191.7580073,
+    "data": {
+      "task_id": "ddcebd0b165625ae179e155cf15f0729",
+      "user_input": "Open Calculator and compute 15 * 23",
+      "intent_analysis": {},
+      "execution_steps": [
+        {
+          "action": "execute",
+          "params": {
+            "text": "Open Calculator and compute 15 * 23"
+          },
+          "result": {
+            "success": false,
+            "message": "Failed to generate steps"
+          }
+        }
+      ],
+      "status": "failed",
+      "start_time": 1748533191.7580073,
+      "end_time": 1748533191.7580073,
+      "success_rate": 0.0,
+      "error_messages": [
+        "Failed to generate steps"
+      ],
+      "screenshots": [],
+      "user_feedback": null,
+      "corrections_applied": []
+    },
+    "tags": [
+      "failed",
+      "task_execution",
+      "open"
+    ],
+    "importance": 0.5,
+    "access_count": 0,
+    "last_accessed": 1748533191.7580073,
+    "expiry_date": 1751125191.7580073
+  },
+  "795f71cea9d404fcc05a77af24fe39c1": {
+    "id": "795f71cea9d404fcc05a77af24fe39c1",
+    "memory_type": "task_execution",
+    "timestamp": 1748533339.1124082,
+    "data": {
+      "task_id": "bacf63b51db4102cef6447d14e778209",
+      "user_input": "Open Calculator and compute 15 * 23",
+      "intent_analysis": {},
+      "execution_steps": [
+        {
+          "action": "execute",
+          "params": {
+            "text": "Open Calculator and compute 15 * 23"
+          },
+          "result": {
+            "success": false,
+            "message": "Failed to generate steps"
+          }
+        }
+      ],
+      "status": "failed",
+      "start_time": 1748533339.1124082,
+      "end_time": 1748533339.1124082,
+      "success_rate": 0.0,
+      "error_messages": [
+        "Failed to generate steps"
+      ],
+      "screenshots": [],
+      "user_feedback": null,
+      "corrections_applied": []
+    },
+    "tags": [
+      "failed",
+      "task_execution",
+      "open"
+    ],
+    "importance": 0.5,
+    "access_count": 0,
+    "last_accessed": 1748533339.1124082,
+    "expiry_date": 1751125339.1124082
+  },
+  "e452e0de637c51f115d7eac80f794ee9": {
+    "id": "e452e0de637c51f115d7eac80f794ee9",
+    "memory_type": "task_execution",
+    "timestamp": 1748533544.6970286,
+    "data": {
+      "task_id": "5269edfd1f7b2b17c005e51005240899",
+      "user_input": "Open Calculator and compute 15 * 23",
+      "intent_analysis": {},
+      "execution_steps": [
+        {
+          "action": "execute",
+          "params": {
+            "text": "Open Calculator and compute 15 * 23"
+          },
+          "result": {
+            "success": false,
+            "message": "Failed to generate steps"
+          }
+        }
+      ],
+      "status": "failed",
+      "start_time": 1748533544.6970286,
+      "end_time": 1748533544.6970286,
+      "success_rate": 0.0,
+      "error_messages": [
+        "Failed to generate steps"
+      ],
+      "screenshots": [],
+      "user_feedback": null,
+      "corrections_applied": []
+    },
+    "tags": [
+      "failed",
+      "task_execution",
+      "open"
+    ],
+    "importance": 0.5,
+    "access_count": 0,
+    "last_accessed": 1748533544.6970286,
+    "expiry_date": 1751125544.6970286
+  },
+  "481471cf4a3343e9592525c5fe1bd039": {
+    "id": "481471cf4a3343e9592525c5fe1bd039",
+    "memory_type": "task_execution",
+    "timestamp": 1748533663.0513413,
+    "data": {
+      "task_id": "93fc48b4a075a9102b8decdc7bea7a7f",
+      "user_input": "Open Calculator and compute 15 * 23",
+      "intent_analysis": {},
+      "execution_steps": [
+        {
+          "action": "execute",
+          "params": {
+            "text": "Open Calculator and compute 15 * 23"
+          },
+          "result": {
+            "success": false,
+            "message": "Failed to generate steps"
+          }
+        }
+      ],
+      "status": "failed",
+      "start_time": 1748533663.0513413,
+      "end_time": 1748533663.0513413,
+      "success_rate": 0.0,
+      "error_messages": [
+        "Failed to generate steps"
+      ],
+      "screenshots": [],
+      "user_feedback": null,
+      "corrections_applied": []
+    },
+    "tags": [
+      "failed",
+      "task_execution",
+      "open"
+    ],
+    "importance": 0.5,
+    "access_count": 0,
+    "last_accessed": 1748533663.0513413,
+    "expiry_date": 1751125663.0513413
+  },
+  "28e6257339521b3aa9e4a8a60a13a542": {
+    "id": "28e6257339521b3aa9e4a8a60a13a542",
+    "memory_type": "task_execution",
+    "timestamp": 1748533778.164868,
+    "data": {
+      "task_id": "2807e395d483bb997bd578c5def33881",
+      "user_input": "Open Calculator and compute 15 * 23",
+      "intent_analysis": {},
+      "execution_steps": [
+        {
+          "action": "execute",
+          "params": {
+            "text": "Open Calculator and compute 15 * 23"
+          },
+          "result": {
+            "success": false,
+            "message": "Failed to generate steps"
+          }
+        }
+      ],
+      "status": "failed",
+      "start_time": 1748533778.164868,
+      "end_time": 1748533778.164868,
+      "success_rate": 0.0,
+      "error_messages": [
+        "Failed to generate steps"
+      ],
+      "screenshots": [],
+      "user_feedback": null,
+      "corrections_applied": []
+    },
+    "tags": [
+      "failed",
+      "task_execution",
+      "open"
+    ],
+    "importance": 0.5,
+    "access_count": 0,
+    "last_accessed": 1748533778.164868,
+    "expiry_date": 1751125778.1654453
+  },
+  "07ccb489f64cafb08432ce2680ffdc34": {
+    "id": "07ccb489f64cafb08432ce2680ffdc34",
+    "memory_type": "task_execution",
+    "timestamp": 1748533924.52465,
+    "data": {
+      "task_id": "a974af886be4eae06f882f13a0a2a73e",
+      "user_input": "Open Calculator and compute 15 * 23",
+      "intent_analysis": {},
+      "execution_steps": [
+        {
+          "action": "execute",
+          "params": {
+            "text": "Open Calculator and compute 15 * 23"
+          },
+          "result": {
+            "success": false,
+            "message": "Failed to generate steps"
+          }
+        }
+      ],
+      "status": "failed",
+      "start_time": 1748533924.52465,
+      "end_time": 1748533924.52465,
+      "success_rate": 0.0,
+      "error_messages": [
+        "Failed to generate steps"
+      ],
+      "screenshots": [],
+      "user_feedback": null,
+      "corrections_applied": []
+    },
+    "tags": [
+      "failed",
+      "task_execution",
+      "open"
+    ],
+    "importance": 0.5,
+    "access_count": 0,
+    "last_accessed": 1748533924.52465,
+    "expiry_date": 1751125924.52465
+  },
+  "2f7b85952e7c9c7b144f08219d8d3903": {
+    "id": "2f7b85952e7c9c7b144f08219d8d3903",
+    "memory_type": "task_execution",
+    "timestamp": 1748534081.6611602,
+    "data": {
+      "task_id": "033bf59c9570659aa4d65ab88c47f61e",
+      "user_input": "Open Calculator and compute 15 * 23",
+      "intent_analysis": {},
+      "execution_steps": [
+        {
+          "action": "execute",
+          "params": {
+            "text": "Open Calculator and compute 15 * 23"
+          },
+          "result": {
+            "success": false,
+            "message": "Failed to generate steps"
+          }
+        }
+      ],
+      "status": "failed",
+      "start_time": 1748534081.6611602,
+      "end_time": 1748534081.6611602,
+      "success_rate": 0.0,
+      "error_messages": [
+        "Failed to generate steps"
+      ],
+      "screenshots": [],
+      "user_feedback": null,
+      "corrections_applied": []
+    },
+    "tags": [
+      "failed",
+      "task_execution",
+      "open"
+    ],
+    "importance": 0.5,
+    "access_count": 0,
+    "last_accessed": 1748534081.6611602,
+    "expiry_date": 1751126081.6611602
+  },
+  "8a64cf97df437492c691c6d441207fdb": {
+    "id": "8a64cf97df437492c691c6d441207fdb",
+    "memory_type": "task_execution",
+    "timestamp": 1748534144.8579597,
+    "data": {
+      "task_id": "9d9abd292bab300335c9a34ba4649dfb",
+      "user_input": "Open Calculator and compute 15 * 23",
+      "intent_analysis": {},
+      "execution_steps": [
+        {
+          "action": "execute",
+          "params": {
+            "text": "Open Calculator and compute 15 * 23"
+          },
+          "result": {
+            "success": false,
+            "message": "Task execution error: 'TaskExecutionAgent' object has no attribute 'execute_step'",
+            "task_description": "{'description': 'Open Calculator and compute 15 * 23', 'executor': 'computer_task_executor', 'steps': [{'action': 'execute', 'params': {'text': 'Open Calculator and compute 15 * 23', 'delay': 0.5}}]}"
+          }
+        }
+      ],
+      "status": "failed",
+      "start_time": 1748534144.8579597,
+      "end_time": 1748534144.8579597,
+      "success_rate": 0.0,
+      "error_messages": [
+        "Task execution error: 'TaskExecutionAgent' object has no attribute 'execute_step'"
+      ],
+      "screenshots": [],
+      "user_feedback": null,
+      "corrections_applied": []
+    },
+    "tags": [
+      "failed",
+      "task_execution",
+      "open"
+    ],
+    "importance": 0.5,
+    "access_count": 0,
+    "last_accessed": 1748534144.8579597,
+    "expiry_date": 1751126144.8579597
+  },
+  "e5cbf5da48b7cd742e7114e611e556f0": {
+    "id": "e5cbf5da48b7cd742e7114e611e556f0",
+    "memory_type": "task_execution",
+    "timestamp": 1748534479.8431487,
+    "data": {
+      "task_id": "0c5536ee9d22d2d98f3e1acb539786cb",
+      "user_input": "Open Calculator and compute 15 * 23",
+      "intent_analysis": {},
+      "execution_steps": [
+        {
+          "action": "execute",
+          "params": {
+            "text": "Open Calculator and compute 15 * 23"
+          },
+          "result": {
+            "success": false,
+            "message": "Failed to generate task steps",
+            "ai_analysis": "Could not break down the task"
+          }
+        }
+      ],
+      "status": "failed",
+      "start_time": 1748534479.8431487,
+      "end_time": 1748534479.8431487,
+      "success_rate": 0.0,
+      "error_messages": [
+        "Failed to generate task steps"
+      ],
+      "screenshots": [],
+      "user_feedback": null,
+      "corrections_applied": []
+    },
+    "tags": [
+      "failed",
+      "task_execution",
+      "open"
+    ],
+    "importance": 0.5,
+    "access_count": 0,
+    "last_accessed": 1748534479.8431487,
+    "expiry_date": 1751126479.8439262
+  },
+  "ce69b2606b1ee48783b5fe0624b06eca": {
+    "id": "ce69b2606b1ee48783b5fe0624b06eca",
+    "memory_type": "task_execution",
+    "timestamp": 1748534606.510001,
+    "data": {
+      "task_id": "10682aa18afe8b1b8d3286cdb916dba9",
+      "user_input": "Open Calculator and compute 15 * 23",
+      "intent_analysis": {},
+      "execution_steps": [
+        {
+          "action": "execute",
+          "params": {
+            "text": "Open Calculator and compute 15 * 23"
+          },
+          "result": {
+            "success": false,
+            "message": "Failed to generate task steps",
+            "ai_analysis": "Could not break down the task"
+          }
+        }
+      ],
+      "status": "failed",
+      "start_time": 1748534606.510001,
+      "end_time": 1748534606.510001,
+      "success_rate": 0.0,
+      "error_messages": [
+        "Failed to generate task steps"
+      ],
+      "screenshots": [],
+      "user_feedback": null,
+      "corrections_applied": []
+    },
+    "tags": [
+      "failed",
+      "task_execution",
+      "open"
+    ],
+    "importance": 0.5,
+    "access_count": 0,
+    "last_accessed": 1748534606.510001,
+    "expiry_date": 1751126606.510001
+  },
+  "7edc42adab815991227666630f628511": {
+    "id": "7edc42adab815991227666630f628511",
+    "memory_type": "task_execution",
+    "timestamp": 1748534691.2083805,
+    "data": {
+      "task_id": "064645cb1fa71ed086afd5773918e512",
+      "user_input": "Open Calculator and compute 15 * 23",
+      "intent_analysis": {},
+      "execution_steps": [
+        {
+          "action": "execute",
+          "params": {
+            "text": "Open Calculator and compute 15 * 23"
+          },
+          "result": {
+            "success": false,
+            "message": "Failed to generate task steps",
+            "ai_analysis": "Could not break down the task"
+          }
+        }
+      ],
+      "status": "failed",
+      "start_time": 1748534691.2083805,
+      "end_time": 1748534691.2083805,
+      "success_rate": 0.0,
+      "error_messages": [
+        "Failed to generate task steps"
+      ],
+      "screenshots": [],
+      "user_feedback": null,
+      "corrections_applied": []
+    },
+    "tags": [
+      "failed",
+      "task_execution",
+      "open"
+    ],
+    "importance": 0.5,
+    "access_count": 0,
+    "last_accessed": 1748534691.2083805,
+    "expiry_date": 1751126691.2083805
+  },
+  "cc4783303eca3fca0a6e400d8d215d69": {
+    "id": "cc4783303eca3fca0a6e400d8d215d69",
+    "memory_type": "task_execution",
+    "timestamp": 1748534779.302116,
+    "data": {
+      "task_id": "0c0bd78aa3bc5a36a434b07689606b8e",
+      "user_input": "Open Calculator and compute 15 * 23",
+      "intent_analysis": {},
+      "execution_steps": [
+        {
+          "action": "execute",
+          "params": {
+            "text": "Open Calculator and compute 15 * 23"
+          },
+          "result": {
+            "success": false,
+            "message": "Failed to generate task steps",
+            "ai_analysis": "Could not break down the task"
+          }
+        }
+      ],
+      "status": "failed",
+      "start_time": 1748534779.302116,
+      "end_time": 1748534779.302116,
+      "success_rate": 0.0,
+      "error_messages": [
+        "Failed to generate task steps"
+      ],
+      "screenshots": [],
+      "user_feedback": null,
+      "corrections_applied": []
+    },
+    "tags": [
+      "failed",
+      "task_execution",
+      "open"
+    ],
+    "importance": 0.5,
+    "access_count": 0,
+    "last_accessed": 1748534779.302116,
+    "expiry_date": 1751126779.302116
+  },
+  "0223459154ee98bd9bcfbdf5a447bfae": {
+    "id": "0223459154ee98bd9bcfbdf5a447bfae",
+    "memory_type": "task_execution",
+    "timestamp": 1748534934.3620026,
+    "data": {
+      "task_id": "a398901b870b00977ecce0249f595bef",
+      "user_input": "Open Calculator and compute 15 * 23",
+      "intent_analysis": {},
+      "execution_steps": [
+        {
+          "action": "execute",
+          "params": {
+            "text": "Open Calculator and compute 15 * 23"
+          },
+          "result": {
+            "success": false,
+            "message": "Failed to generate task steps",
+            "ai_analysis": "Could not break down the task"
+          }
+        }
+      ],
+      "status": "failed",
+      "start_time": 1748534934.3620026,
+      "end_time": 1748534934.3620026,
+      "success_rate": 0.0,
+      "error_messages": [
+        "Failed to generate task steps"
+      ],
+      "screenshots": [],
+      "user_feedback": null,
+      "corrections_applied": []
+    },
+    "tags": [
+      "failed",
+      "task_execution",
+      "open"
+    ],
+    "importance": 0.5,
+    "access_count": 0,
+    "last_accessed": 1748534934.3620026,
+    "expiry_date": 1751126934.3620026
+  },
+  "4864fb577de396ac229b526347076fd4": {
+    "id": "4864fb577de396ac229b526347076fd4",
+    "memory_type": "task_execution",
+    "timestamp": 1748535119.5525491,
+    "data": {
+      "task_id": "66c0c616d034d73243d9997e352bbc0e",
+      "user_input": "Open Calculator and compute 15 * 23",
+      "intent_analysis": {},
+      "execution_steps": [
+        {
+          "action": "execute",
+          "params": {
+            "text": "Open Calculator and compute 15 * 23"
+          },
+          "result": {
+            "success": false,
+            "message": "Failed to generate task steps",
+            "ai_analysis": "Could not break down the task"
+          }
+        }
+      ],
+      "status": "failed",
+      "start_time": 1748535119.5525491,
+      "end_time": 1748535119.5525491,
+      "success_rate": 0.0,
+      "error_messages": [
+        "Failed to generate task steps"
+      ],
+      "screenshots": [],
+      "user_feedback": null,
+      "corrections_applied": []
+    },
+    "tags": [
+      "failed",
+      "task_execution",
+      "open"
+    ],
+    "importance": 0.5,
+    "access_count": 0,
+    "last_accessed": 1748535119.5525491,
+    "expiry_date": 1751127119.5525491
+  },
+  "e0a22d6f71ebacec133a9d5d30ca1792": {
+    "id": "e0a22d6f71ebacec133a9d5d30ca1792",
+    "memory_type": "task_execution",
+    "timestamp": 1748535208.8630972,
+    "data": {
+      "task_id": "536a313fdcf0ac7c9f972417beed241c",
+      "user_input": "Open Calculator and compute 15 * 23",
+      "intent_analysis": {},
+      "execution_steps": [
+        {
+          "action": "execute",
+          "params": {
+            "text": "Open Calculator and compute 15 * 23"
+          },
+          "result": {
+            "success": false,
+            "message": "Failed to generate task steps",
+            "ai_analysis": "Could not break down the task"
+          }
+        }
+      ],
+      "status": "failed",
+      "start_time": 1748535208.8630972,
+      "end_time": 1748535208.8630972,
+      "success_rate": 0.0,
+      "error_messages": [
+        "Failed to generate task steps"
+      ],
+      "screenshots": [],
+      "user_feedback": null,
+      "corrections_applied": []
+    },
+    "tags": [
+      "failed",
+      "task_execution",
+      "open"
+    ],
+    "importance": 0.5,
+    "access_count": 0,
+    "last_accessed": 1748535208.8630972,
+    "expiry_date": 1751127208.8630972
+  },
+  "ef31399504274fc170d5493df1947b71": {
+    "id": "ef31399504274fc170d5493df1947b71",
+    "memory_type": "task_execution",
+    "timestamp": 1748535405.4680066,
+    "data": {
+      "task_id": "510fc40065a642cab81b5d3f7eee426f",
+      "user_input": "Open Calculator and compute 15 * 23",
+      "intent_analysis": {},
+      "execution_steps": [
+        {
+          "action": "execute",
+          "params": {
+            "text": "Open Calculator and compute 15 * 23"
+          },
+          "result": {
+            "success": false,
+            "message": "Failed to generate task steps",
+            "ai_analysis": "Could not break down the task"
+          }
+        }
+      ],
+      "status": "failed",
+      "start_time": 1748535405.4680066,
+      "end_time": 1748535405.4680066,
+      "success_rate": 0.0,
+      "error_messages": [
+        "Failed to generate task steps"
+      ],
+      "screenshots": [],
+      "user_feedback": null,
+      "corrections_applied": []
+    },
+    "tags": [
+      "failed",
+      "task_execution",
+      "open"
+    ],
+    "importance": 0.5,
+    "access_count": 0,
+    "last_accessed": 1748535405.4680066,
+    "expiry_date": 1751127405.4680066
+  },
+  "b5867a90850fcd9c6acd8c0dc21de6c8": {
+    "id": "b5867a90850fcd9c6acd8c0dc21de6c8",
+    "memory_type": "task_execution",
+    "timestamp": 1748536527.9472725,
+    "data": {
+      "task_id": "9f377ea03ff5bca879c88f019ee4b4f8",
+      "user_input": "Open Calculator and compute 15 * 23",
+      "intent_analysis": {},
+      "execution_steps": [
+        {
+          "action": "execute",
+          "params": {
+            "text": "Open Calculator and compute 15 * 23"
+          },
+          "result": {
+            "success": false,
+            "message": "Failed to generate task steps",
+            "ai_analysis": "Could not break down the task"
+          }
+        }
+      ],
+      "status": "failed",
+      "start_time": 1748536527.9472725,
+      "end_time": 1748536527.9472725,
+      "success_rate": 0.0,
+      "error_messages": [
+        "Failed to generate task steps"
+      ],
+      "screenshots": [],
+      "user_feedback": null,
+      "corrections_applied": []
+    },
+    "tags": [
+      "failed",
+      "task_execution",
+      "open"
+    ],
+    "importance": 0.5,
+    "access_count": 0,
+    "last_accessed": 1748536527.9472725,
+    "expiry_date": 1751128527.9472725
+  },
+  "d249466310c7122b57550ac3be925771": {
+    "id": "d249466310c7122b57550ac3be925771",
+    "memory_type": "task_execution",
+    "timestamp": 1748536950.1222746,
+    "data": {
+      "task_id": "f6d5f0f8a2fcd756d6afadbefec2ed34",
+      "user_input": "Open Calculator and compute 15 * 23",
+      "intent_analysis": {},
+      "execution_steps": [
+        {
+          "action": "execute",
+          "params": {
+            "text": "Open Calculator and compute 15 * 23"
+          },
+          "result": {
+            "success": false,
+            "message": "Failed to generate task steps",
+            "ai_analysis": "Could not break down the task"
+          }
+        }
+      ],
+      "status": "failed",
+      "start_time": 1748536950.1222746,
+      "end_time": 1748536950.1222746,
+      "success_rate": 0.0,
+      "error_messages": [
+        "Failed to generate task steps"
+      ],
+      "screenshots": [],
+      "user_feedback": null,
+      "corrections_applied": []
+    },
+    "tags": [
+      "failed",
+      "task_execution",
+      "open"
+    ],
+    "importance": 0.5,
+    "access_count": 0,
+    "last_accessed": 1748536950.1222746,
+    "expiry_date": 1751128950.1222746
+  },
+  "f9db3d3025e78dae6d2cef27cab24c38": {
+    "id": "f9db3d3025e78dae6d2cef27cab24c38",
+    "memory_type": "task_execution",
+    "timestamp": 1748537637.5482123,
+    "data": {
+      "task_id": "1e5d02fef2d89fb8c3014091184f0767",
+      "user_input": "Open Calculator and compute 15 * 23",
+      "intent_analysis": {},
+      "execution_steps": [
+        {
+          "action": "execute",
+          "params": {
+            "text": "Open Calculator and compute 15 * 23"
+          },
+          "result": {
+            "success": false,
+            "message": "Failed to generate task steps",
+            "ai_analysis": "Could not break down the task"
+          }
+        }
+      ],
+      "status": "failed",
+      "start_time": 1748537637.5482123,
+      "end_time": 1748537637.5482123,
+      "success_rate": 0.0,
+      "error_messages": [
+        "Failed to generate task steps"
+      ],
+      "screenshots": [],
+      "user_feedback": null,
+      "corrections_applied": []
+    },
+    "tags": [
+      "failed",
+      "task_execution",
+      "open"
+    ],
+    "importance": 0.5,
+    "access_count": 0,
+    "last_accessed": 1748537637.5482123,
+    "expiry_date": 1751129637.5482123
+  },
+  "6d56ff83fc49d1c368b39156fe232fb0": {
+    "id": "6d56ff83fc49d1c368b39156fe232fb0",
+    "memory_type": "task_execution",
+    "timestamp": 1748538836.031127,
+    "data": {
+      "task_id": "8b42fee5524c8c762d9a2088b0545279",
+      "user_input": "Open Calculator and compute 15 * 23",
+      "intent_analysis": {},
+      "execution_steps": [
+        {
+          "action": "execute",
+          "params": {
+            "text": "Open Calculator and compute 15 * 23"
+          },
+          "result": {
+            "success": false,
+            "message": "Executed 0 of 3 steps",
+            "total_steps": 3,
+            "steps_executed": 0,
+            "execution_log": [
+              {
+                "step_number": 1,
+                "description": "Open Calculator app",
+                "success": false,
+                "timestamp": 1748538830.9745634,
+                "verification_result": false
+              }
+            ],
+            "task_description": "Open Calculator and compute 15 * 23",
+            "verification_result": true,
+            "screenshots": [
+              "screenshots\\sessions\\session_20250529_201230\\fullscreen_201323_656.png",
+              "screenshots\\sessions\\session_20250529_201230\\fullscreen_201351_047.png"
+            ],
+            "failed_steps": [
+              {
+                "description": "Open Calculator app",
+                "action": "open_app",
+                "params": {
+                  "app_name": "calculator"
+                }
+              }
+            ],
+            "memory_reference": null
+          }
+        }
+      ],
+      "status": "failed",
+      "start_time": 1748538836.031127,
+      "end_time": 1748538836.031127,
+      "success_rate": 0.0,
+      "error_messages": [
+        "Executed 0 of 3 steps"
+      ],
+      "screenshots": [],
+      "user_feedback": null,
+      "corrections_applied": []
+    },
+    "tags": [
+      "failed",
+      "task_execution",
+      "open"
+    ],
+    "importance": 0.5,
+    "access_count": 0,
+    "last_accessed": 1748538836.031127,
+    "expiry_date": 1751130836.031127
+  },
+  "d558733df9ec60f58086f2707b727e88": {
+    "id": "d558733df9ec60f58086f2707b727e88",
+    "memory_type": "task_execution",
+    "timestamp": 1748538958.940667,
+    "data": {
+      "task_id": "c7ba47e6615006e216325c291710f096",
+      "user_input": "Open Calculator and compute 15 * 23",
+      "intent_analysis": {},
+      "execution_steps": [
+        {
+          "action": "execute",
+          "params": {
+            "text": "Open Calculator and compute 15 * 23"
+          },
+          "result": {
+            "success": false,
+            "message": "Executed 0 of 5 steps",
+            "total_steps": 5,
+            "steps_executed": 0,
+            "execution_log": [
+              {
+                "step_number": 1,
+                "description": "Open Calculator",
+                "success": false,
+                "timestamp": 1748538952.8914871,
+                "verification_result": false
+              }
+            ],
+            "task_description": "Open Calculator and compute 15 * 23",
+            "verification_result": true,
+            "screenshots": [
+              "screenshots\\sessions\\session_20250529_201509\\fullscreen_201532_742.png",
+              "screenshots\\sessions\\session_20250529_201509\\fullscreen_201552_925.png"
+            ],
+            "failed_steps": [
+              {
+                "description": "Open Calculator",
+                "action": "open_app",
+                "params": {
+                  "app_name": "calculator"
+                }
+              }
+            ],
+            "memory_reference": null
+          }
+        }
+      ],
+      "status": "failed",
+      "start_time": 1748538958.940667,
+      "end_time": 1748538958.940667,
+      "success_rate": 0.0,
+      "error_messages": [
+        "Executed 0 of 5 steps"
+      ],
+      "screenshots": [],
+      "user_feedback": null,
+      "corrections_applied": []
+    },
+    "tags": [
+      "failed",
+      "task_execution",
+      "open"
+    ],
+    "importance": 0.5,
+    "access_count": 0,
+    "last_accessed": 1748538958.940667,
+    "expiry_date": 1751130958.940667
+  },
+  "5ef03506abfa988735657442595af559": {
+    "id": "5ef03506abfa988735657442595af559",
+    "memory_type": "task_execution",
+    "timestamp": 1748539011.7561233,
+    "data": {
+      "task_id": "a67a83eaa52cbb0b5f9f1739b1739f1f",
+      "user_input": "Open Chrome and search for 'AI news'",
+      "intent_analysis": {},
+      "execution_steps": [
+        {
+          "action": "execute",
+          "params": {
+            "text": "Open Chrome and search for 'AI news'"
+          },
+          "result": {
+            "success": false,
+            "message": "Executed 0 of 3 steps",
+            "total_steps": 3,
+            "steps_executed": 0,
+            "execution_log": [
+              {
+                "step_number": 1,
+                "description": "Open Chrome",
+                "success": false,
+                "timestamp": 1748539009.721809,
+                "verification_result": false
+              }
+            ],
+            "task_description": "Open Chrome and search for 'AI news'",
+            "verification_result": true,
+            "screenshots": [
+              "screenshots\\sessions\\session_20250529_201509\\fullscreen_201624_088.png",
+              "screenshots\\sessions\\session_20250529_201509\\fullscreen_201649_757.png"
+            ],
+            "failed_steps": [
+              {
+                "description": "Open Chrome",
+                "action": "open_app",
+                "params": {
+                  "app_name": "chrome"
+                }
+              }
+            ],
+            "memory_reference": null
+          }
+        }
+      ],
+      "status": "failed",
+      "start_time": 1748539011.7561233,
+      "end_time": 1748539011.7561233,
+      "success_rate": 0.0,
+      "error_messages": [
+        "Executed 0 of 3 steps"
+      ],
+      "screenshots": [],
+      "user_feedback": null,
+      "corrections_applied": []
+    },
+    "tags": [
+      "failed",
+      "task_execution",
+      "chrome",
+      "open",
+      "search"
+    ],
+    "importance": 0.5,
+    "access_count": 0,
+    "last_accessed": 1748539011.7561233,
+    "expiry_date": 1751131011.7561233
+  },
+  "3db3a3373dce21e6bbdc54df3dc0d2b5": {
+    "id": "3db3a3373dce21e6bbdc54df3dc0d2b5",
+    "memory_type": "task_execution",
+    "timestamp": 1748539202.245584,
+    "data": {
+      "task_id": "4ea2d0403e156bda1fc66d95c1ec1091",
+      "user_input": "Open Calculator and compute 15 * 23",
+      "intent_analysis": {},
+      "execution_steps": [
+        {
+          "action": "execute",
+          "params": {
+            "text": "Open Calculator and compute 15 * 23"
+          },
+          "result": {
+            "success": false,
+            "message": "Executed 0 of 5 steps",
+            "total_steps": 5,
+            "steps_executed": 0,
+            "execution_log": [
+              {
+                "step_number": 1,
+                "description": "Open Calculator app",
+                "success": false,
+                "timestamp": 1748539194.2512767,
+                "verification_result": false
+              }
+            ],
+            "task_description": "Open Calculator and compute 15 * 23",
+            "verification_result": true,
+            "screenshots": [
+              "screenshots\\sessions\\session_20250529_201909\\fullscreen_201929_295.png",
+              "screenshots\\sessions\\session_20250529_201909\\fullscreen_201954_285.png"
+            ],
+            "failed_steps": [
+              {
+                "description": "Open Calculator app",
+                "action": "open_app",
+                "params": {
+                  "app_name": "calculator"
+                },
+                "delay": 2
+              }
+            ],
+            "memory_reference": null
+          }
+        }
+      ],
+      "status": "failed",
+      "start_time": 1748539202.245584,
+      "end_time": 1748539202.245584,
+      "success_rate": 0.0,
+      "error_messages": [
+        "Executed 0 of 5 steps"
+      ],
+      "screenshots": [],
+      "user_feedback": null,
+      "corrections_applied": []
+    },
+    "tags": [
+      "failed",
+      "task_execution",
+      "open"
+    ],
+    "importance": 0.5,
+    "access_count": 0,
+    "last_accessed": 1748539202.245584,
+    "expiry_date": 1751131202.245584
+  },
+  "c2c32124d7e1687df36f9e7ddc42e81c": {
+    "id": "c2c32124d7e1687df36f9e7ddc42e81c",
+    "memory_type": "task_execution",
+    "timestamp": 1748539410.6130805,
+    "data": {
+      "task_id": "8c48b2e22aede4d78d71198d6cfbf0ec",
+      "user_input": "Open Calculator and compute 15 * 23",
+      "intent_analysis": {},
+      "execution_steps": [
+        {
+          "action": "execute",
+          "params": {
+            "text": "Open Calculator and compute 15 * 23"
+          },
+          "result": {
+            "success": false,
+            "message": "Failed to generate task steps",
+            "ai_analysis": "Could not break down the task"
+          }
+        }
+      ],
+      "status": "failed",
+      "start_time": 1748539410.6130805,
+      "end_time": 1748539410.6130805,
+      "success_rate": 0.0,
+      "error_messages": [
+        "Failed to generate task steps"
+      ],
+      "screenshots": [],
+      "user_feedback": null,
+      "corrections_applied": []
+    },
+    "tags": [
+      "failed",
+      "task_execution",
+      "open"
+    ],
+    "importance": 0.5,
+    "access_count": 0,
+    "last_accessed": 1748539410.6130805,
+    "expiry_date": 1751131410.613606
+  },
+  "10baa5de1be43eb70b251d3c6ba9a1e6": {
+    "id": "10baa5de1be43eb70b251d3c6ba9a1e6",
+    "memory_type": "task_execution",
+    "timestamp": 1748539483.9708393,
+    "data": {
+      "task_id": "ba63004085a54a29f7a97b120a70cb5b",
+      "user_input": "Open Calculator and compute 15 * 23",
+      "intent_analysis": {},
+      "execution_steps": [
+        {
+          "action": "execute",
+          "params": {
+            "text": "Open Calculator and compute 15 * 23"
+          },
+          "result": {
+            "success": false,
+            "message": "Failed to generate task steps",
+            "ai_analysis": "Could not break down the task"
+          }
+        }
+      ],
+      "status": "failed",
+      "start_time": 1748539483.9708393,
+      "end_time": 1748539483.9708393,
+      "success_rate": 0.0,
+      "error_messages": [
+        "Failed to generate task steps"
+      ],
+      "screenshots": [],
+      "user_feedback": null,
+      "corrections_applied": []
+    },
+    "tags": [
+      "failed",
+      "task_execution",
+      "open"
+    ],
+    "importance": 0.5,
+    "access_count": 0,
+    "last_accessed": 1748539483.9708393,
+    "expiry_date": 1751131483.9708393
+  },
+  "0d2904814f3a388cfb5251a8b9f0d03f": {
+    "id": "0d2904814f3a388cfb5251a8b9f0d03f",
+    "memory_type": "task_execution",
+    "timestamp": 1748539748.3804643,
+    "data": {
+      "task_id": "95fc4082c2c771283c26672979307359",
+      "user_input": "Open Calculator and compute 15 * 23",
+      "intent_analysis": {},
+      "execution_steps": [
+        {
+          "action": "execute",
+          "params": {
+            "text": "Open Calculator and compute 15 * 23"
+          },
+          "result": {
+            "success": false,
+            "message": "Failed to generate task steps",
+            "ai_analysis": "Could not break down the task"
+          }
+        }
+      ],
+      "status": "failed",
+      "start_time": 1748539748.3804643,
+      "end_time": 1748539748.3804643,
+      "success_rate": 0.0,
+      "error_messages": [
+        "Failed to generate task steps"
+      ],
+      "screenshots": [],
+      "user_feedback": null,
+      "corrections_applied": []
+    },
+    "tags": [
+      "failed",
+      "task_execution",
+      "open"
+    ],
+    "importance": 0.5,
+    "access_count": 0,
+    "last_accessed": 1748539748.3804643,
+    "expiry_date": 1751131748.3804643
+  },
+  "cbbc8225bd75a01f04e7db8156f077ab": {
+    "id": "cbbc8225bd75a01f04e7db8156f077ab",
+    "memory_type": "task_execution",
+    "timestamp": 1748539950.058583,
+    "data": {
+      "task_id": "a3f04add4febd1794844c7e4412a7ad8",
+      "user_input": "Open Calculator and compute 15 * 23",
+      "intent_analysis": {},
+      "execution_steps": [
+        {
+          "action": "execute",
+          "params": {
+            "text": "Open Calculator and compute 15 * 23"
+          },
+          "result": {
+            "success": false,
+            "message": "Failed to generate task steps",
+            "ai_analysis": "Could not break down the task"
+          }
+        }
+      ],
+      "status": "failed",
+      "start_time": 1748539950.058583,
+      "end_time": 1748539950.058583,
+      "success_rate": 0.0,
+      "error_messages": [
+        "Failed to generate task steps"
+      ],
+      "screenshots": [],
+      "user_feedback": null,
+      "corrections_applied": []
+    },
+    "tags": [
+      "failed",
+      "task_execution",
+      "open"
+    ],
+    "importance": 0.5,
+    "access_count": 0,
+    "last_accessed": 1748539950.058583,
+    "expiry_date": 1751131950.058583
+  },
+  "8381a2659f729d1d94a6e9d35e366d6e": {
+    "id": "8381a2659f729d1d94a6e9d35e366d6e",
+    "memory_type": "task_execution",
+    "timestamp": 1748540099.3935766,
+    "data": {
+      "task_id": "21fdf3b864a1382e40bc6b41eda714be",
+      "user_input": "Open Calculator and compute 15 * 23",
+      "intent_analysis": {},
+      "execution_steps": [
+        {
+          "action": "execute",
+          "params": {
+            "text": "Open Calculator and compute 15 * 23"
+          },
+          "result": {
+            "success": false,
+            "message": "Failed to generate task steps",
+            "ai_analysis": "Could not break down the task"
+          }
+        }
+      ],
+      "status": "failed",
+      "start_time": 1748540099.3935766,
+      "end_time": 1748540099.3935766,
+      "success_rate": 0.0,
+      "error_messages": [
+        "Failed to generate task steps"
+      ],
+      "screenshots": [],
+      "user_feedback": null,
+      "corrections_applied": []
+    },
+    "tags": [
+      "failed",
+      "task_execution",
+      "open"
+    ],
+    "importance": 0.5,
+    "access_count": 0,
+    "last_accessed": 1748540099.3935766,
+    "expiry_date": 1751132099.3935766
+  },
+  "963f3e6fea69fa675e95e1ba4d28bbea": {
+    "id": "963f3e6fea69fa675e95e1ba4d28bbea",
+    "memory_type": "task_execution",
+    "timestamp": 1748586729.3082156,
+    "data": {
+      "task_id": "92c6f72b6f5ba46f8f5edcd40be2f7d9",
+      "user_input": "Open Calculator and compute 15 * 23",
+      "intent_analysis": {},
+      "execution_steps": [
+        {
+          "action": "execute",
+          "params": {
+            "text": "Open Calculator and compute 15 * 23"
+          },
+          "result": {
+            "success": false,
+            "message": "Executed 0 of 5 steps",
+            "total_steps": 5,
+            "steps_executed": 0,
+            "execution_log": [
+              {
+                "step_number": 1,
+                "description": "Execute open_app on app name",
+                "success": false,
+                "timestamp": 1748586722.9800863,
+                "verification_result": false
+              }
+            ],
+            "task_description": "Open Calculator and compute 15 * 23",
+            "verification_result": true,
+            "screenshots": [
+              "screenshots\\sessions\\session_20250530_093038\\fullscreen_093119_301.png",
+              "screenshots\\sessions\\session_20250530_093038\\fullscreen_093203_046.png"
+            ],
+            "failed_steps": [
+              {
+                "action": "open_app",
+                "target": "app name",
+                "parameters": {
+                  "app_name": "Calculator",
+                  "wait_after": 2
+                },
+                "description": "Execute open_app on app name"
+              }
+            ],
+            "memory_reference": null
+          }
+        }
+      ],
+      "status": "failed",
+      "start_time": 1748586729.3082156,
+      "end_time": 1748586729.3082156,
+      "success_rate": 0.0,
+      "error_messages": [
+        "Executed 0 of 5 steps"
+      ],
+      "screenshots": [],
+      "user_feedback": null,
+      "corrections_applied": []
+    },
+    "tags": [
+      "failed",
+      "task_execution",
+      "open"
+    ],
+    "importance": 0.5,
+    "access_count": 0,
+    "last_accessed": 1748586729.3082156,
+    "expiry_date": 1751178729.3082156
+  },
+  "5d383e490d14c24f18a6ce5648fd0d5e": {
+    "id": "5d383e490d14c24f18a6ce5648fd0d5e",
+    "memory_type": "task_execution",
+    "timestamp": 1748588135.3366039,
+    "data": {
+      "task_id": "f991188d357d27406400d5a24108e7a2",
+      "user_input": "Open Calculator and compute 15 * 23",
+      "intent_analysis": {},
+      "execution_steps": [
+        {
+          "action": "execute",
+          "params": {
+            "text": "Open Calculator and compute 15 * 23"
+          },
+          "result": {
+            "success": false,
+            "message": "Executed 0 of 5 steps",
+            "total_steps": 5,
+            "steps_executed": 0,
+            "execution_log": [
+              {
+                "step_number": 1,
+                "description": "Execute open_app on app name",
+                "success": false,
+                "timestamp": 1748588132.0383577,
+                "verification_result": false
+              }
+            ],
+            "task_description": "Open Calculator and compute 15 * 23",
+            "verification_result": true,
+            "screenshots": [
+              "screenshots\\sessions\\session_20250530_095003\\fullscreen_095501_847.png",
+              "screenshots\\sessions\\session_20250530_095003\\fullscreen_095532_073.png"
+            ],
+            "failed_steps": [
+              {
+                "action": "open_app",
+                "target": "app name",
+                "parameters": {
+                  "app_name": "Calculator",
+                  "wait_after": 2
+                },
+                "description": "Execute open_app on app name"
+              }
+            ],
+            "memory_reference": null
+          }
+        }
+      ],
+      "status": "failed",
+      "start_time": 1748588135.3366039,
+      "end_time": 1748588135.3366039,
+      "success_rate": 0.0,
+      "error_messages": [
+        "Executed 0 of 5 steps"
+      ],
+      "screenshots": [],
+      "user_feedback": null,
+      "corrections_applied": []
+    },
+    "tags": [
+      "failed",
+      "task_execution",
+      "open"
+    ],
+    "importance": 0.5,
+    "access_count": 0,
+    "last_accessed": 1748588135.3366039,
+    "expiry_date": 1751180135.3366039
+  }
+}
